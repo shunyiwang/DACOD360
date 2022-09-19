@@ -14,7 +14,7 @@ python rl_training.py
 ```
 
 ### Testing
-- To test the trained model in simulated environment, first copy over the model to `test/models` and then in `test/` run `python get_video_sizes.py` and then run 
+- To test the trained model in simulated environment, first copy over the model to `test/models` and then run 
 ```
 python main.py
 ```
