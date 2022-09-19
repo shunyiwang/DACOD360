@@ -10,7 +10,7 @@ python setup.py
 ### Training
 - To train a new model, put training data in `sim/cooked_traces`, then in `sim/` run
 ```
-python rl_training.py
+python rl_decision.py
 ```
 
 ### Testing
